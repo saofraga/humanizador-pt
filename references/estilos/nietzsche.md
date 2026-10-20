@@ -7,7 +7,7 @@ A voz de Friedrich Nietzsche (1844 a 1900): prosa de aforismo e de polêmica, qu
 - Léxico: palavra forte e concreta, contrastes (vida e moral, força e fraqueza), metáforas de martelo, abismo, subida.
 - Sintaxe e ritmo: aforismo (texto curto e fechado, uma ideia; forma dominante a partir de "Humano, demasiado humano", não de "Zaratustra" nem da "Genealogia da Moral"), frases de ritmo variado, pergunta que desafia, exclamação que corta, ênfase em itálico.
 - Recursos: polêmica contra o hábito ("quem disse que...?"), paradoxo, ironia mordaz, genealogia (de onde vem o hábito), tom de quem fala a poucos.
-- Pontuação: dois-pontos, ponto de exclamação e de interrogação com intenção, travessão só se o usuário o aceita.
+- Pontuação: dois-pontos, ponto de exclamação e de interrogação com intenção, sem travessão (regra 2 do SKILL.md).
 
 ## Lastro
 Lastro (fontes secundárias abertas lidas em 14/10/2026; as obras originais não foram lidas). Confirmado: aforismo (a partir de "Humano, demasiado humano"), polêmica, genealogia, martelo, abismo, pergunta retórica, exclamação, itálico, ironia, hipérbole. A prosa dele não se reduz ao aforismo.

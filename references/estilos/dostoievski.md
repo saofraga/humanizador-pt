@@ -7,7 +7,7 @@ A voz de Fiódor Dostoiévski (1821 a 1881), autor de "Memórias do Subsolo" e "
 - Léxico: palavras de culpa, orgulho e humilhação, termos morais, vocabulário comum e intenso.
 - Sintaxe e ritmo: frases que se corrigem ("ou melhor", "mas não"), interrupções, ritmo irregular, parágrafos longos que se atropelam.
 - Recursos: autocontradição, polifonia (vozes que discordam), diálogo como confronto, detalhe de humilhação, tom confessional, o narrador dirigindo-se ao leitor com ironia amarga.
-- Pontuação: travessões, reticências e exclamações na medida em que o usuário aceita; interrupções marcadas por vírgulas.
+- Pontuação: reticências e exclamações na medida em que o usuário aceita, sem travessão (regra 2 do SKILL.md); interrupções marcadas por vírgulas.
 
 ## Lastro
 Lastro (fontes secundárias abertas lidas em 14/10/2026; as obras originais não foram lidas). Confirmado: polifonia (conceito de Bakhtin), monólogo confessional e autocontradição nas "Memórias do Subsolo", humilhação como detalhe. "Crime e Castigo" é narrado em terceira pessoa. Sem fonte lida: "ou melhor" como marcador.

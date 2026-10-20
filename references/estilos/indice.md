@@ -2,7 +2,7 @@
 
 Abra só o arquivo do estilo escolhido. Cada arquivo traz: o que é, traços de forma, quando usar, o que evitar, cuidado de fidelidade e uma amostra original sobre o mesmo fato-base, para comparar as vozes.
 
-Em cada arquivo, a seção Fidelidade é cautela de significado. Sentimento, humor e reflexão acrescentados sem alterar o significado são permitidos pela regra 1 do SKILL.md, e, quando o texto desafiar a Fidelidade de um estilo, a skill pergunta ao usuário qual solução usar, conforme a regra 1.
+Em cada arquivo, a seção Fidelidade é cautela de significado. Sentimento, humor e reflexão acrescentados sem alterar o significado são permitidos pela regra 1 do SKILL.md, e, quando o texto desafiar a Fidelidade de um estilo, a skill pergunta ao usuário qual solução usar, conforme a regra 1. Traço de estilo que coincida com um padrão de IA fica, em qualquer rigor, e é sinalizado (regra 9). O travessão nunca entra (regra 2).
 
 Marcas de atenção: **S** pede confirmação antes (sarcasmo), **L** risco de caricatura, **A** autor vivo, só forma, **F** cuidado extra de fidelidade.
 
@@ -37,7 +37,7 @@ Marcas de atenção: **S** pede confirmação antes (sarcasmo), **L** risco de c
 | 15 | Pessoa, três vozes | `pessoa-tres-vozes.md` | Caeiro simples, Reis contido, Campos exuberante | L |
 | 16 | Clarice | `clarice.md` | Introspecção e percepção súbita | L F |
 | 17 | Eça | `eca.md` | Ironia social e descrição satírica | L |
-| 18 | Estilo pessoal culto | `pessoal-culto.md` | A voz do próprio usuário, a partir de amostras | |
+| 18 | Culto solene | `culto-solene.md` | Formal e culto, frase longa e encadeada, conectivo solene e fecho moral | |
 
 ## Filósofos clássicos
 
